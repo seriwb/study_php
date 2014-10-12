@@ -1,4 +1,8 @@
 study_php
 =========
 
-php practice
+PHP学習用のリポジトリ。
+
+## 学習対象
+
+- 文法
